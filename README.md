@@ -1,17 +1,30 @@
 # Treasure Island
+Welcome to Treasure Island, a text-based adventure game where you must find the treasure and win the game!
 
-Simple game quest with no GUI
+## How to Play
+To play the game, simply run the Python script treasure_island.py using a Python interpreter.
+You will be presented with a series of choices at different points in the game, and you must choose one of the options to continue.
+The game will end when you reach one of the possible endings, either by finding the treasure or encountering a game over scenario.
 
+## Requirements
+This game requires Python 3.x to run. No additional libraries or dependencies are required.
+
+## Credits
+Treasure Island was created by Alexander Hazankin.
+
+## License
+MIT License
+Copyright (c) 2022 Alexander Hazankin
+Permission is hereby granted, free of charge
+
+## Gameplay
+In Treasure Island, you will start at a crossroad where you must choose to go left or right.
+If you choose left, you will come to a lake with an island in the middle.
+You will then have the option to wait for a boat or swim across the lake.
+If you choose to wait for a boat, you will be taken to the island and presented with three doors: red, yellow, and blue.
+Each door leads to a different outcome, either finding the treasure, entering a room full of fire, or entering a room full of beasts.
+If you choose to swim across the lake, you will be attacked by angry trout and the game will end.
+If you choose to go right at the crossroad, you will fall into a hole and the game will end.
+
+## Notes
 This is one of my exercises from Udemy online Course: "100 Days of Code: The Complete Python Pro Bootcamp for 2022" by Dr. Angela Yu
-
-### Text Snippets from my example
-
-* 'You\'re at a crossroad. Where do you want to go? Type "left" or "right"'
-* 'You\'ve come to a lake. There is an island in the middle of the lake. Type "wait" to wait for a boat. Type "swim" to swim across.'
-* "You arrive at the island unharmed. There is a house with 3 doors. One red, one yellow and one blue. Which colour do you choose?"
-* "It\'s a room full of fire. Game Over."
-* "You found the treasure! You Win!"
-* "You enter a room of beasts. Game Over."
-* "You chose a door that doesn\'t exist. Game Over."
-* "You get attacked by an angry trout. Game Over."
-* "You fell into a hole. Game Over."
