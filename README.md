@@ -6,17 +6,6 @@ To play the game, simply run the Python script treasure_island.py using a Python
 You will be presented with a series of choices at different points in the game, and you must choose one of the options to continue.
 The game will end when you reach one of the possible endings, either by finding the treasure or encountering a game over scenario.
 
-## Requirements
-This game requires Python 3.x to run. No additional libraries or dependencies are required.
-
-## Credits
-Treasure Island was created by Alexander Hazankin.
-
-## License
-MIT License
-Copyright (c) 2022 Alexander Hazankin
-Permission is hereby granted, free of charge
-
 ## Gameplay
 In Treasure Island, you will start at a crossroad where you must choose to go left or right.
 If you choose left, you will come to a lake with an island in the middle.
@@ -26,5 +15,27 @@ Each door leads to a different outcome, either finding the treasure, entering a 
 If you choose to swim across the lake, you will be attacked by angry trout and the game will end.
 If you choose to go right at the crossroad, you will fall into a hole and the game will end.
 
-## Notes
+## Requirements
+Requires Python 3.x to run.
+
+## Credits
+Created by Alexander Hazankin.
+
+## Contact
+For any questions or comments, you can reach me at:
+
+https://www.linkedin.com/in/hazankin
+
+https://github.com/AlexanderHazankin
+
+https://replit.com/@Hazankin
+
+## License
+This project is licensed under the MIT License.
+
+Copyright (c) 2022 Alexander Hazankin.
+
+Permission is hereby granted, free of charge.
+
+## NOTE:
 This is one of my exercises from Udemy online Course: "100 Days of Code: The Complete Python Pro Bootcamp for 2022" by Dr. Angela Yu
